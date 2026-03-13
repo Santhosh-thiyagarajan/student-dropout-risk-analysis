@@ -1,0 +1,9 @@
+## 1. Problem Statement
+This project aims to predict student dropout risk using academic and demographic data.
+
+## 2. Models Used
+- Logistic Regression (baseline)
+- Random Forest (non-linear model)
+
+## 3. Evaluation Metrics
+ROC-AUC, Precision, Recall, F1-score
